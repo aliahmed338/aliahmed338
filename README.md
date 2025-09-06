@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello there!
 
-<!--
-**aliahmed338/aliahmed338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** by day ☼ and a **Laravel Community Contributor** by night ☾.  
+Currently working as a **Full-Stack Developer at Medicare** and part of the **Laracon EU organizing team**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech I Use Daily
+- `.php`, `.js`, `.html`, `.css`
+- `.svg`, `.psd`, `.ai`
+
+---
+
+## 🌍 Community Involvement
+- Actively engaged in the **Laravel Community**
+- Contributor & organizer of **Laracon EU**
+
+---
+
+## 💅 Design Work
+I've contributed design to:
+- [@pestphp](https://pestphp.com)
+- [NorthMeetsSouth.audio](https://northmeetssouth.audio)
+- [ThenPing.me](https://thenping.me)
+- [HappydDev.fm](https://happyddev.fm)
+- ...and more
+
+---
+
+## 💬 Let's Connect!
+Ping me about:
+- 🎨 Design & Branding  
+- 💻 Laravel & Web Development  
+- 🧠 Design Thinking  
+
+---
