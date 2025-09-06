@@ -1,8 +1,5 @@
 ### 👋 Hello there!
 
-I'm a **Full-Stack Developer** by day ☼ and a **Laravel Community Contributor** by night ☾.  
-Currently working as a **Full-Stack Developer at Medicare** and part of the **Laracon EU organizing team**.
-
 I'm Ali, a **Front-End Developer** skilled in **Next.js** and **React**.
 I have a solid foundation in **HTML**, **CSS**, and **JavaScript**, and I focus on building responsive, modern web interfaces.
 
