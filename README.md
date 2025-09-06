@@ -1,4 +1,4 @@
-### 👋 Hello there!
+### Hello there !
 
 I'm Ali, a **Front-End Developer** skilled in **Next.js** and **React**.
 I have a solid foundation in **HTML**, **CSS**, and **JavaScript**, and I focus on building responsive, modern web interfaces.
