@@ -1,4 +1,4 @@
-# 👋 Hello there!
+### 👋 Hello there!
 
 I'm a **Full-Stack Developer** by day ☼ and a **Laravel Community Contributor** by night ☾.  
 Currently working as a **Full-Stack Developer at Medicare** and part of the **Laracon EU organizing team**.
